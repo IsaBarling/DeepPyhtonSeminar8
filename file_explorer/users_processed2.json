@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Serafim",
+        "access_level": "1",
+        "user_id": "0000900001",
+        "hash": "4cbcd1f75c50edea53e8400c9dcaa9fc8281436fd26ebd62726051663458733b"
+    },
+    {
+        "name": "Waznec",
+        "access_level": "1",
+        "user_id": "0000900002",
+        "hash": "96f167cc87e246dbe0f4890ace3ad06844c7a309cf7f12567577ee919fbe07d1"
+    },
+    {
+        "name": "Kasi pain",
+        "access_level": "2",
+        "user_id": "0000900003",
+        "hash": "165f7c7d0f25a41fc50b7852499a35e60b15b3c4ed1a021aef7677011041b605"
+    },
+    {
+        "name": "Kasi payne",
+        "access_level": "2",
+        "user_id": "0000900005",
+        "hash": "a809fc585e1a419bec6f39915ce680c3715629c679443ceeda97e3f81260f96e"
+    },
+    {
+        "name": "Dimarik",
+        "access_level": "3",
+        "user_id": "0000900004",
+        "hash": "e80e71abdfd5d7fc365eb1732dd3875b68a21e09cfc9ba15c4953e4c498e1cf1"
+    },
+    {
+        "name": "Dmitrij marchenkov",
+        "access_level": "3",
+        "user_id": "0000900008",
+        "hash": "4d50c128f261e455f3d860765a90667fe1dc2fe5dd1d1ff209176019751a5e96"
+    },
+    {
+        "name": "Morganyasha",
+        "access_level": "6",
+        "user_id": "0000900006",
+        "hash": "682c43e768571174c15d9ffa0805d631927e7f86950a54985f97cb93fdad7f23"
+    },
+    {
+        "name": "Romanushka",
+        "access_level": "5",
+        "user_id": "0000900007",
+        "hash": "8a5079adfc7f4656b68069fd44eeba4ce93006b7612c46a320700c99306fc8cd"
+    },
+    {
+        "name": "Prapor",
+        "access_level": "7",
+        "user_id": "0000900009",
+        "hash": "5020e19250286034c49256dcf1ac596edc287e9ccd84e15ba3981cf2357d82d9"
+    }
+]
