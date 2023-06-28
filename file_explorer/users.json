@@ -1,0 +1,50 @@
+{
+    "1": {
+        "900001": {
+            "name": "Serafim",
+            "access_level": "1"
+        },
+        "900002": {
+            "name": "Waznec",
+            "access_level": "1"
+        }
+    },
+    "2": {
+        "900003": {
+            "name": "Kasi Pain",
+            "access_level": "2"
+        },
+        "900005": {
+            "name": "Kasi Payne",
+            "access_level": "2"
+        }
+    },
+    "3": {
+        "900004": {
+            "name": "Dimarik",
+            "access_level": "3"
+        },
+        "900008": {
+            "name": "Dmitrij Marchenkov",
+            "access_level": "3"
+        }
+    },
+    "6": {
+        "900006": {
+            "name": "Morganyasha",
+            "access_level": "6"
+        }
+    },
+    "5": {
+        "900007": {
+            "name": "Romanushka",
+            "access_level": "5"
+        }
+    },
+    "7": {
+        "900009": {
+            "name": "Prapor",
+            "access_level": "7"
+        }
+    }
+}

@@ -1,0 +1,357 @@
+[
+{
+    "name": "BxProApp.cs",
+    "oHash": "0c11a7ce489c25cd0d7ede48eef9733c38ddcd7156886018e434995d9caf9b43",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 19120
+},{
+    "name": "C.cs",
+    "oHash": "eb0c1aaeef3b67559725eb5df8d762c4d158dd8debca3ef7e99c4ca447bc6326",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5220
+},{
+    "name": "TransactionNotificationDefinitions.cs",
+    "oHash": "666a4bce66110bd12b85f10257cca4f0c7c508a4c7f5cf6f2d2e40f99e3ee909",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 41732
+},{
+    "name": "Services",
+    "oHash": "3f6d6814c2958129a8cf9b7d06e8cda0b613f84420cad954e3d2fc3ebfe1c986",
+    "oType": "D",
+    "parent": "BxProCore",
+    "size": 0
+},{
+    "name": "BxConfigurationExtendedGroupEnum.cs",
+    "oHash": "0e4c9de6901dd6c51e65ba21f2dcc53685dab4d4c66232eec267d49bd7a527fe",
+    "oType": "F",
+    "parent": "Services",
+    "size": 437
+},{
+    "name": "BxConfigurationOptionDef.cs",
+    "oHash": "15b3422fb9ebc7626e16011139a4e06e5f1b09d83fb4f1988c2a1d920f0268cd",
+    "oType": "F",
+    "parent": "Services",
+    "size": 2220
+},{
+    "name": "BxProConfigService.cs",
+    "oHash": "90a77f6b3d17b165f0f619d3fdf92d5e53361d62d4878c3106cdf9e5ec75d70d",
+    "oType": "F",
+    "parent": "Services",
+    "size": 32505
+},{
+    "name": "BxProDatabaseManager.cs",
+    "oHash": "56376055c392119cfbc164f958e77ce6d5dec50deffa64e032ea6838b87fa529",
+    "oType": "F",
+    "parent": "Services",
+    "size": 784
+},{
+    "name": "BXProPostOfficeService.cs",
+    "oHash": "c79bc64eaf9d7fc773e85ae2cffd40456fc79c4a7a193aa46323829f3f56f900",
+    "oType": "F",
+    "parent": "Services",
+    "size": 532
+},{
+    "name": "BxProServiceManager.cs",
+    "oHash": "8f5bae4abb206bec904e58b33e3f6549d58e18099426e8a3c45f45c8559f3c14",
+    "oType": "F",
+    "parent": "Services",
+    "size": 1440
+},{
+    "name": "BXProValidValues.cs",
+    "oHash": "1b7f1142c367503607e0359ae88108edc15cf5b12bc2eb290b646b13728ac402",
+    "oType": "F",
+    "parent": "Services",
+    "size": 1477
+},{
+    "name": "UI",
+    "oHash": "734be0d15a25694dfad00849c143fcd88f9c7f558e09d000f81fed895143c6bf",
+    "oType": "D",
+    "parent": "BxProCore",
+    "size": 0
+},{
+    "name": "BxConfigurationExtendedGroupEnum.cs",
+    "oHash": "b1a7d9789819ba317fb3f8355821d05a888174c0be05fe95b9c902e3faaec346",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 437
+},{
+    "name": "BxConfigurationOptionDef.cs",
+    "oHash": "2552cc8163200eab8ac84bc727bfd315483b532c13ccc6d856eac9dcb4842358",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 2220
+},{
+    "name": "BxProConfigService.cs",
+    "oHash": "561a29abadaabb170df87663d7d14f0cb0e2f98f1abac52629bb2e94aab196c4",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 32505
+},{
+    "name": "BxProDatabaseManager.cs",
+    "oHash": "4b6facbc637f2890d28e566017bec09aab07bc7d77386b4d1e6316756b0dce95",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 784
+},{
+    "name": "BXProPostOfficeService.cs",
+    "oHash": "ba6d8b8a20c729815495d19347c03dda6940d286c96ce974188e4b324a95a7f2",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 532
+},{
+    "name": "BxProServiceManager.cs",
+    "oHash": "47d7cf38d5f3682ba71ac7420268fcee508a499cd2e14d6fbc5667ecbc2fb282",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1440
+},{
+    "name": "BXProValidValues.cs",
+    "oHash": "b55b96ac894a0c1a3e6156b2699a9d900dfbf04a8cba0d89089565aa193a1f9f",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1477
+},{
+    "name": "BxActivityPaneForm`1.cs",
+    "oHash": "584f160578f87f6f14720eb075781cf058632aef051ce261d0e25920a87d39d9",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5917
+},{
+    "name": "BxActivityStructurePane.cs",
+    "oHash": "853c9a18d2295c4d1ba0f9520dbca6f26da84756cc8fa1bca8f6465543a08416",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 44845
+},{
+    "name": "BxActivityStructurePane.resx",
+    "oHash": "c5ac20b13a3eff29f329a1181425d231a6b0e7b77fd94dbb0dd4befa53b8178c",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 19702
+},{
+    "name": "BxBrowserForMakeEverythingOK.cs",
+    "oHash": "be27057f275c78f50f065e7156e6e783b296a17e1ea68f4b95f1011f376342b2",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 2101
+},{
+    "name": "BxBrowserForMakeEverythingOK.resx",
+    "oHash": "dbed52dd0bdae95deeb06c0ea22e74414a68b0dee179d441b0f01fc9bf9c7d64",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5814
+},{
+    "name": "BxBrowserWrapperForDepartmentPlanning.cs",
+    "oHash": "dd2548ce86ab6bc79a9f7da583fcd664445c370cb38c24f91ac5770b3fd21c6e",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 4781
+},{
+    "name": "BxBrowserWrapperForDepartmentPlanning.resx",
+    "oHash": "1d2131b22e302f0d89811927a30333bf2ce2c944c55a0acbe8c7b75c4f6e968e",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5814
+},{
+    "name": "BxBrowserWrapperForMasterPlanning.cs",
+    "oHash": "f1231a58679a0d82398394583093692d4a893b9918a76e30e857bfef5db36682",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5635
+},{
+    "name": "BxBrowserWrapperForMasterPlanning.resx",
+    "oHash": "bae32f6ab8d839496c09f67d12c470ee209e68f2737539276143bc80b70aa8a3",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 5814
+},{
+    "name": "BXProBudgetVersionRestore.cs",
+    "oHash": "ba564e729e1d6737900fd4f033b89c22fc9611519bd8b8ff557f68ab58adb5b4",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 20996
+},{
+    "name": "BXProBudgetVersionRestore.resx",
+    "oHash": "ea43657eec3c14a1b19dec61a4f22f8ae7d31eb43a46c9d1107d717c9e1ae842",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 19430
+},{
+    "name": "BXProBudgetVersionRestoreForm.cs",
+    "oHash": "4d200dd1f28e07b4858de0991b85f96432118c44ce5e161d8932a507546603ac",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1080
+},{
+    "name": "BXPROFormBase.cs",
+    "oHash": "3354078ed446d0ef1e04aaeed13aee166d978d66b5b4d5abbf57a8367f4c08b7",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 809
+},{
+    "name": "BXProImportProject.cs",
+    "oHash": "0667891bb639366293418e326016e94c4e16bd3840a9bb7becc6eca50189682a",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 30107
+},{
+    "name": "BXProImportProject.resx",
+    "oHash": "be857ef78533833e04a2c615ceb4ad3aa1a1572acf15b65e76bd3abaaa47c22d",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 19486
+},{
+    "name": "BXProImportProjectForm.cs",
+    "oHash": "f84782aa16f532cd46be1fef70a1bce8e861ab2551553c50cf25993567d93f0a",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1345
+},{
+    "name": "BxProTimeSheetApprovalBase.cs",
+    "oHash": "5bf348bdcbb8f128b4fee4c91fc9693718b3f75cdd6d296a3d66df97817103b8",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 12476
+},{
+    "name": "BxProTimeSheetApprovalBase.resx",
+    "oHash": "415d27781978f3797c2b19fe842de97d0bf4cd706b9db47fcd7d6c344aaac08f",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 19717
+},{
+    "name": "BxProTimeSheetForm`1.cs",
+    "oHash": "c1a3eb042c8210dbf58140ddca7300cb4e7fc0ae1e72373b787cd455c698cb46",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 882
+},{
+    "name": "BxProTimeSheetPost.cs",
+    "oHash": "4b5313de1e2b884a532b1c16b77905c6b275996091a32b1459a98ca42eecfcf7",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 31001
+},{
+    "name": "BxProTimeSheetPost.resx",
+    "oHash": "4d558a624b527da0a6c45733bdd3236c9666ef08230a083af21f5eec67956bdc",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 11675
+},{
+    "name": "BxProTimeSheetProjectApprove.cs",
+    "oHash": "acb1748bd0fbc3cdf2a3d3dc5762b9a694353e555663f507181b2aef2bdffa3b",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 11892
+},{
+    "name": "BxProTimeSheetTreeView.cs",
+    "oHash": "88a1a69629baa12e23e63922cf04405fbd461096a9821417f4ae1bc838283026",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 32130
+},{
+    "name": "BxProTimeSheetTreeView.resx",
+    "oHash": "9e31f7de22d32f832b3af1897d26e2e378c8cc7d1ef6a719d00559c614c9a059",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 11675
+},{
+    "name": "BxProTimeSheetWeekApprove.cs",
+    "oHash": "af11897a78a0dcf91d8c7941b6695cb3b4eb42816bfab3bdadccf101afb096da",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 13228
+},{
+    "name": "BxProUIFactory.cs",
+    "oHash": "763fb7948d2d020b9b59309684692fb7d9e8b57efa69d03267c7149de60d27ab",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1391
+},{
+    "name": "Frm_FilterTimesheets.cs",
+    "oHash": "71254ca2143e9fffcac5761f31177c05e679272d6defa5bc2d2831fc1849edb4",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 20259
+},{
+    "name": "Frm_LogBase.cs",
+    "oHash": "c9cd6983402116db8510df1ef360a61aaeca1265a6e3b14d26bfe9f9ca5a2c0b",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 939
+},{
+    "name": "Frm_LogForTimeSheetClose.cs",
+    "oHash": "bf008eb884027979e7c152cc417bc36f29658511a3e9dfd86adf9d852dea36a1",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1399
+},{
+    "name": "Frm_Settings.cs",
+    "oHash": "6872e98ccae7928f19ec28d57b90233c7908d5e8795476623ee649b546902a59",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1430
+},{
+    "name": "Frm_TMCEmployeePassword.cs",
+    "oHash": "5ccb5c3949d7ffe2b60e05b2a6f96ab26e666d1ad536e1fcb818e69f78fe90f0",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 3646
+},{
+    "name": "Frm_UpdateProjectData.cs",
+    "oHash": "51160f1b769d94da26596afd50e8e7397269353c64e8fd60aa8f7baf6229e121",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 4048
+},{
+    "name": "Grid_LogBase.cs",
+    "oHash": "3195bb6f0091c3fc03b31d72218e9b6104d7cdad026ee03927141b2c742407c9",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1002
+},{
+    "name": "Grid_LogForTimeSheetClose.cs",
+    "oHash": "63ea4336b023d451daf878de7119b0a7fac3f06810acb854f50c7284a311b5de",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 1310
+},{
+    "name": "IStructureParent.cs",
+    "oHash": "e22dd43e516d5ad19426170229d95d7b505aa8d7ba16335b986646863ee8311c",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 754
+},{
+    "name": "StructureType.cs",
+    "oHash": "a818e183e76923398cc5f3bdebc80dfd2cacb3f89c4074df7ce80a23e1293341",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 393
+},{
+    "name": "TimeSheetProjectNode.cs",
+    "oHash": "1886e5423ef6fa3974b0527655c53e3fbe757a742f1bae364a184155ff6d709e",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 2558
+},{
+    "name": "TimeSheetProjectNodeType.cs",
+    "oHash": "66b54d86c1d67927666b2a0c800b6c496bddc5ef96b7956ca35d5d6ec4c91468",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 465
+},{
+    "name": "TimeSheetWeekNode.cs",
+    "oHash": "0d4f48007d5d0bf969fa1c5c567470bab6035f3fdff8aa5fb01fa2aa99692a09",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 4325
+},{
+    "name": "TimeSheetWeekNodeType.cs",
+    "oHash": "415cbfc7c9d045cc6206f77f6512af5a345556e39fa225807b175601e116fae2",
+    "oType": "F",
+    "parent": "BxProCore",
+    "size": 447
+}
+]
